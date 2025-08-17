@@ -68,6 +68,15 @@
 
 **🛠 Tech Stack:** React.js, Node.js, Express.js, MongoDB Atlas, Tailwind CSS, Razorpay, Stripe, Cloudinary, Hygraph (GraphQL)
 
+```
+eduhealth/
+├── doctor/             # Doctor service module
+├── tutor/              # Tutor service module
+├── eduhealth-main/     # Main interface (React)
+├── my-admin-interface/ # Admin dashboard
+└── package.json
+```
+
 ### 🎓 [Placify](https://github.com/Sravanthi359/Placify-Smarter_Placements-Sharper_Talent.git)
 **Smart campus placement management system with role-specific dashboards**
 
