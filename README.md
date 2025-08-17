@@ -18,7 +18,7 @@
 
 - 🌱 Learning **MERN Stack** technologies and advanced React patterns
 - 📊 Exploring **Data Analytics** skills and visualization techniques
-- 🤝 Contributing to **GSSoC 2024** open source projects
+- 🤝 Contributing to **GSSoC 2025** open source projects
 - 👯 Looking to collaborate on innovative web applications
 - 🎯 **Graduation:** 2026
 
@@ -49,8 +49,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 </div>
 
@@ -70,15 +68,6 @@
 
 **🛠 Tech Stack:** React.js, Node.js, Express.js, MongoDB Atlas, Tailwind CSS, Razorpay, Stripe, Cloudinary, Hygraph (GraphQL)
 
-```
-eduhealth/
-├── doctor/             # Doctor service module
-├── tutor/              # Tutor service module
-├── eduhealth-main/     # Main interface (React)
-├── my-admin-interface/ # Admin dashboard
-└── package.json
-```
-
 ### 🎓 [Placify](https://github.com/Sravanthi359/Placify-Smarter_Placements-Sharper_Talent.git)
 **Smart campus placement management system with role-specific dashboards**
 
@@ -92,7 +81,7 @@ eduhealth/
 
 ## 🏆 Achievements & Contributions
 
-- 🌟 **GSSoC 2024 Contributor** - Contributing to open source projects
+- 🌟 **GSSoC 2025 Contributor** - Contributing to open source projects
 - 🚀 **Full-Stack Developer** - Built production-ready applications
 - 💻 **Problem Solver** - Active on competitive programming platforms
 
